@@ -3,9 +3,8 @@
 
 Effective date: June 30, 2019
 
-(“us”, “we”, or “our”) operate the mobile applications (the “Service”).
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our service and the choices you have associated with that data.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -40,16 +39,16 @@ Preference Cookies. We use Preference Cookies to remember your preferences and v
 Security Cookies. We use Security Cookies for security purposes.
 Use of Data
 
-## Our applications uses the collected data for various purposes:
+## Our applications use the collected data for various purposes:
 
-To provide and maintain the Service
-To notify you about changes to our Service
-To allow you to participate in interactive features of our Service when you choose to do so
-To provide customer care and support
-To provide analysis or valuable information so that we can improve the Service
-To monitor the usage of the Service
-To detect, prevent and address technical issues
-Transfer Of Data
+- To provide and maintain the Service
+- To notify you about changes to our Service
+- To allow you to participate in interactive features of our Service when you choose to do so
+- To provide customer care and support
+- To provide analysis or valuable information so that we can improve the Service
+- To monitor the usage of the Service
+- To detect, prevent and address technical issues
+- Transfer Of Data
 
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
@@ -104,7 +103,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: celes@gmail.com
+By email: main@celes.com
 
 
 
